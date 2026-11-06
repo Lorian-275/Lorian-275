@@ -15,7 +15,7 @@
 - 💻 Desarrollo aplicaciones web de punta a punta: frontend, API y base de datos.
 - 🧩 Últimamente trabajo con **Oracle JET**, **React**, **Express** y **MySQL**.
 - 🐳 Despliego con **Docker / Podman** sobre **Oracle Cloud Infrastructure**.
-- 🎓 Estudiante en **ESCOM – IPN**.
+- 🎓 Student at **ESIME Culhuacán – IPN**.
 
 ## 🛠️ Tecnologías
 
