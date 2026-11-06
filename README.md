@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lorian-275&color=7F5AF0&style=flat-square&label=Visitas" alt="Visitas"/>
-</p>
-
 ## 👋 Sobre mí
 
 - 💻 Desarrollo aplicaciones web de punta a punta: frontend, API y base de datos.
