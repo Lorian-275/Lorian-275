@@ -15,6 +15,13 @@
 - 💻 Desarrollo aplicaciones web de punta a punta: frontend, API y base de datos.
 - 🧩 Últimamente trabajo con **Oracle JET**, **React**, **Express** y **MySQL**.
 - 🐳 Despliego con **Docker / Podman** sobre **Oracle Cloud Infrastructure**.
+- 🎓 Estudiante en **ESIME Culhuacán – IPN**.
+
+## 👋 About me
+
+- 💻 I build full-stack web applications: frontend, API and database.
+- 🧩 Lately I work with **Oracle JET**, **React**, **Express** and **MySQL**.
+- 🐳 I deploy with **Docker / Podman** on **Oracle Cloud Infrastructure**.
 - 🎓 Student at **ESIME Culhuacán – IPN**.
 
 ## 🛠️ Tecnologías
